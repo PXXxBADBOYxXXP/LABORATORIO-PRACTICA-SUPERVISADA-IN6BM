@@ -1,21 +1,21 @@
 .card {
 
 
-    box-shadow: rgba(0, 0, 0, 0.1);
-    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: #fa7304(0, 0, 0, 0.1);
+    background-color: rgba(247, 248, 250, 0.863);
     border-radius: 10%;
 
 }
 
 body {
 
-    background-color: #D8D9DA;
+    background-color: #fa7304;
     background-image: url(./../imagenes/FondoLoginDB.jpg);
 
 }
 
 input {
 
-    background-color: #D8D9DA;
+    background-color: #010a13;
 
 }
