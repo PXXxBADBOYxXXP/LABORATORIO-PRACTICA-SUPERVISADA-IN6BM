@@ -1,8 +1,8 @@
 .card {
 
 
-    box-shadow: #fa7304(0, 0, 0, 0.1);
-    background-color: rgba(247, 248, 250, 0.863);
+    box-shadow: rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.5);
     border-radius: 10%;
 
 }
@@ -16,6 +16,6 @@ body {
 
 input {
 
-    background-color: #010a13;
+    background-color: #fa7304;
 
 }
